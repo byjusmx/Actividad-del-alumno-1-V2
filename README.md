@@ -1,2 +1,2 @@
-# C35_SynchronousBallMoment_StudentActivity
-Student Activity
+# C35_Pelota con movimiento sincrónico
+Actividad del alumno 1
